@@ -137,8 +137,6 @@ This dashboard provides a comprehensive analytical view of UK road accident data
 
 ---
 
-##  Contact
 
-If you would like to discuss this project or collaborate, feel free to connect with me on LinkedIn.
 
 
